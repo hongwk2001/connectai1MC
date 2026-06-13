@@ -1,5 +1,5 @@
 {
-  "ceo": "lfm2.5:8b",
+  "ceo": "nemotron-3-ultra:cloud",
   "youtube": "qwen3.5:9b",
   "instagram": "qwen3.5:9b",
   "designer": "qwen3.5:9b",
@@ -8,5 +8,5 @@
   "secretary": "nemotron-3-super:cloud",
   "editor": "qwen3.5:9b",
   "writer": "qwen3.5:9b",
-  "researcher": "qwen3.5:9b"
+  "researcher": "minimax-m3:cloud"
 }

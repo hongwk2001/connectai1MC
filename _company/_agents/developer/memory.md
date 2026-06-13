@@ -3,3 +3,5 @@
 _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 패턴이 누적됩니다._
 
 ## 학습 기록
+
+- [2026-06-13] Integrate Gemini Flash module into the automation system to enhance AI capabilities. → 산출물 sessions/2026-06-13T16-13/developer.md
